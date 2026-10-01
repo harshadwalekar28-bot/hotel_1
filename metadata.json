@@ -1,0 +1,6 @@
+{
+  "name": "Aura Haven - Luxury Hotel & Guest Services",
+  "description": "Comprehensive luxury hotel website and guest service companion featuring WiFi access, in-room dining, room resources, local attraction guides, facilities booking, live reception chat, and an integrated booking & maintenance management system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
